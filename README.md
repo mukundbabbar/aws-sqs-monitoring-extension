@@ -1,6 +1,6 @@
 # AWS SQS Monitoring Extension
 
-![example workflow](https://github.com/mukundbabbar/network-monitoring-extension/actions/workflows/main.yml/badge.svg)
+![example workflow](https://github.com/mukundbabbar/aws-sqs-monitoring-extension/actions/workflows/main.yml/badge.svg)
 
 ## Use Case
 Captures SQS statistics from Amazon CloudWatch and displays them in the AppDynamics Metric Browser.
